@@ -119,7 +119,7 @@ MS Excel
 •	I have Experience using MS Excel for data analysis, test data management, and creating test reports.
 
 
-** MY PROJECTS:**
+**MY PROJECTS**
 
 
 You can view My Projects  : https://github.com/Gayathri-1999/My-Projects
@@ -160,8 +160,7 @@ b. Reduced code duplication by creating dedicated classes for each page and thei
 
 
 
-**COURSES
-**
+**COURSES**
 
 
 •	An Introduction to Logic for Computer Science from University of Leeds(In Progress)
