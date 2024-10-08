@@ -1,4 +1,4 @@
-About Me
+ABOUT ME
 
 I’m a passionate and enthusiastic junior QA tester with a keen eye for detail and a love for problem-solving. My creative mind allows me to approach testing from unique angles, while my positive mindset helps me overcome challenges and maintain a productive environment.
 I have Completed my Master's In English Language And Literature from BCM College Kottayam. I am Interested in Content and Technical Writing and have contributed to Microsoft opensource Documentation.
@@ -10,7 +10,7 @@ You Can Download My CV
 You Can View my Linked In:   www.linkedin.com/in/gayathri-v-963a6a250
 
 
-Skills
+SKILLS
 
 
 
@@ -59,7 +59,7 @@ JAVA
 •	Foundational understanding of object-oriented principles, including classes, objects, inheritance, and polymorphism.
 
 
-Tools
+TOOLS
 
 
 
@@ -119,7 +119,7 @@ MS Excel
 •	I have Experience using MS Excel for data analysis, test data management, and creating test reports.
 
 
- My Projects:
+ MY PROJECTS:
 
 
 
@@ -157,7 +157,7 @@ b. Reduced code duplication by creating dedicated classes for each page and thei
 
 
 
-Courses
+COURSES
 
 
 
