@@ -1,4 +1,4 @@
-**ABOUT ME**
+ **ABOUT ME** 
 
 I’m a passionate and enthusiastic junior QA tester with a keen eye for detail and a love for problem-solving. My creative mind allows me to approach testing from unique angles, while my positive mindset helps me overcome challenges and maintain a productive environment.
 I have Completed my Master's In English Language And Literature from BCM College Kottayam. I am Interested in Content and Technical Writing and have contributed to Microsoft opensource Documentation.
