@@ -7,7 +7,7 @@ CV
 
 You Can Download My CV
 
-You Can View my Linked In
+You Can View my Linked In:   www.linkedin.com/in/gayathri-v-963a6a250
 
 
 Skills
