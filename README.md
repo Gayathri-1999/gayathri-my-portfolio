@@ -170,8 +170,12 @@ COURSES
 •	Completed   Content Writing
 
 
+     Link to cerificate :  https://drive.google.com/file/d/1Tq6qINOuZ4M3zxVh3pwAbWXium87ep0F/view
+
 •	Completed   Technical Writing 
 
+
+      Link to cerificate :file:///C:/Users/gayat/Downloads/tech%20writing%20certificate.pdf
 
 
 
