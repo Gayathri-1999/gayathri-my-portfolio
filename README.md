@@ -19,8 +19,13 @@ Manual testing
 
 
 •	can perform manual functional and usability testing of web applications.
+
+
 •	Adept at accurately reporting defects and following up on their resolution.
+
 Test case design and execution
+
+
 •	can design effective test cases based on requirements and execute them to identify defects.
 
 
@@ -30,6 +35,8 @@ Test documentation
 
 
 •	can create test cases and checklists and know-how and in which situations to use them effectively
+
+
 •	able to prepare comprehensive bug reports and provide detailed session reports
 
 
@@ -38,6 +45,8 @@ SQL databases
 
 
 •	can write  requests using subqueries
+
+
 •	know the difference between joins and can use them in queries
 
 
@@ -46,6 +55,9 @@ Automation Testing
 
 
 •	Proficient in writing test scripts using automation frameworks like Selenium WebDriver .
+
+
+
 •	Skilled in creating comprehensive and effective test cases to cover various scenarios.
 
 
@@ -55,7 +67,12 @@ JAVA
 
 
 •	can create and execute simple Java functions to perform specific tasks.
+
+
 •	solid grasp of different data types and can declare and manipulate variables effectively.
+
+
+
 •	Foundational understanding of object-oriented principles, including classes, objects, inheritance, and polymorphism.
 
 
@@ -131,6 +148,8 @@ You can view My Projects  : https://github.com/Gayathri-1999/My-Projects
 
  
 a. Manually tested the E-Commerce Platform resulting in Rigorous test case execution and defect analysis, identified critical issues in Login, checkout, product listings, and search.
+
+
 b. Detailed test case report, defect report and defect distribution graph were prepared to provide actionable recommendations for Shopify's quality enhancement.
 
 
@@ -139,6 +158,8 @@ b. Detailed test case report, defect report and defect distribution graph were p
 
  
 a. Developed this automation testing project using Selenium WebDriver, POM , Java, TestNG and Maven.
+
+
 b. Automated core E-commerce functionalities including user registration, login, product search, adding to cart, checkout, and order confirmation.
 
 
@@ -147,6 +168,8 @@ b. Automated core E-commerce functionalities including user registration, login,
 
 
 a. Maintained a clean, modular test suite using Maven for project management and the Page Object Model design pattern for reusability.
+
+
 b. Further improved test clarity by integrating screenshot capture with Selenium's Takes Screenshot interface.
 
 
@@ -155,6 +178,8 @@ b. Further improved test clarity by integrating screenshot capture with Selenium
 
  
 a. Automated critical functionalities of OrangeHRM (login, registration, dropdowns, file uploads, date pickers) using Selenium WebDriver, Maven, and the POM pattern, ensuring efficient and maintainable test scripts.
+
+
 b. Reduced code duplication by creating dedicated classes for each page and their respective elements.
 
 
